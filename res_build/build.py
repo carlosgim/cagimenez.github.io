@@ -128,3 +128,16 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+"""
+ Move the build content to the main folder - carlosgim:w
+"""
+from distutils.dir_util import copy_tree
+
+src = os.getcwd() +"/build/"
+dest = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
+
+copy_tree(src, dest)
+
+
