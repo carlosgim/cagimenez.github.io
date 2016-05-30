@@ -4,7 +4,7 @@
 profile:
     name: Carlos A. Giménez
     label: PhD in Physics
-    email: cagimenez[at]df.uba.ar
+    email: mail[at]carlosagimenez.com
     phone: 0054 0379 4369786
     birth: 05-04-1980
     address: Corrientes, Argentina
@@ -28,7 +28,7 @@ skills:
     -   area: Scientific Software
         skills:
             - PENELOPE (A Code System for Monte-Carlo Simulation of Electron and Photon Transport), 
-            - DIRAC (Program for Atomic and Molecular Direct Iterative Relativistic All-electron Calculations)
+            - DIRAC (Program for Atomic and Molecular Direct Iterative Relativistic All-electron Calculations),
             - DALTON (Program for calculations of molecular properties at the HF, DFT, MCSCF, and CC levels of theory).
 
     -   area: Programming
@@ -40,8 +40,8 @@ skills:
 
     -   area: Technology
         skills:
-            - Git, Mercurial, Bazaar
-            - Typography - Latex and beamer
+            - Git, Bazaar,
+            - Typography - Latex and beamer,
             - Plotting language - gnuplot, gle and matplotlib.
 
     -   area: Other skills
@@ -68,7 +68,6 @@ work:
         role: Associate Professor - Classical Mechanics
         date: 2016
         website: http://www.unne.edu.ar/
-        summary: In Replacing of the Professor (full Professor) Dr. Gustavo A. Aucar, (4 month)
 
     -   company: Universidad Nacional del Nordeste
         role: Teacher in charge of assignments
@@ -77,7 +76,7 @@ work:
 
 projects:
 
-    -   name: The origen of the quantum entanglement, the hydrogen bonds, relativistics, of QED and        chirality in molecular properties
+    -   name: The origen of the quantum entanglement, the hydrogen bonds, relativistics, of QED and chirality in molecular properties
         role: PhD researcher
         website: http://www.imit-conicet.gob.ar/fam-proyectos/
         date: 06.2013
