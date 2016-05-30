@@ -1,11 +1,10 @@
-
 # Resume
 
 profile:
     name: Carlos A. Giménez
     label: PhD in Physics
-    email: cagimenez[at]df.uba.ar
-    phone: 0054 0379 4369786
+    email: mail[at]carlosagimenez.com
+    phone: 0054 0379 447-3931 int 125
     birth: 05-04-1980
     address: Corrientes, Argentina
     summary: >
@@ -28,7 +27,7 @@ skills:
     -   area: Scientific Software
         skills:
             - PENELOPE (A Code System for Monte-Carlo Simulation of Electron and Photon Transport), 
-            - DIRAC (Program for Atomic and Molecular Direct Iterative Relativistic All-electron Calculations)
+            - DIRAC (Program for Atomic and Molecular Direct Iterative Relativistic All-electron Calculations),
             - DALTON (Program for calculations of molecular properties at the HF, DFT, MCSCF, and CC levels of theory).
 
     -   area: Programming
@@ -40,7 +39,7 @@ skills:
 
     -   area: Technology
         skills:
-            - Git, Mercurial, Bazaar
+            - Git and Bazaar
             - Typography - Latex and beamer
             - Plotting language - gnuplot, gle and matplotlib.
 
@@ -56,7 +55,7 @@ skills:
 
 work:
     -   company: Institute of Modeling and Innovation on Technology
-        role: Post PhD
+        role: Post PhD researcher
         website: http://www.imit-conicet.gob.ar/
         date: 2016 - 2018
         summary: Development of theoretical and computational tools for the study of magnetic
@@ -68,7 +67,7 @@ work:
         role: Associate Professor - Classical Mechanics
         date: 2016
         website: http://www.unne.edu.ar/
-        summary: In Replacing of the Professor (full Professor) Dr. Gustavo A. Aucar, (4 month)
+        summary: Responsible of the subject.
 
     -   company: Universidad Nacional del Nordeste
         role: Teacher in charge of assignments
@@ -77,21 +76,22 @@ work:
 
 projects:
 
-    -   name: The origen of the quantum entanglement, the hydrogen bonds, relativistics, of QED and        chirality in molecular properties
+    -   name: The origen of the quantum entanglement, the hydrogen bonds, relativistics, of QED and
+	      chirality in molecular properties
         role: PhD researcher
         website: http://www.imit-conicet.gob.ar/fam-proyectos/
         date: 06.2013
 
 education:
-    -   location: Universidad de Buenos Aires, Buenos Aires, Argentina
+    -   location: Universidad de Buenos Aires 
         date: 2016 - 2018
         summary: Post PhD in Computer Science
 
-    -   location: Universidad Nacional del Nordeste, Corrientes, Argentina
+    -   location: Universidad Nacional del Nordeste
         date: 20011 - 2015
         summary: PhD in Physics
 
-    -   location: Universidad Nacional del Nordeste, Corrientes, Argentina
+    -   location: Universidad Nacional del Nordeste
         date: 2008 - 2011
         summary: Licenciate in Physics
 
