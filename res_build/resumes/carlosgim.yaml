@@ -4,7 +4,7 @@
 profile:
     name: Carlos A. Giménez
     label: PhD in Physics
-    email: cagimenez[at]df.uba.ar
+    email: mail[at]carlosagimenez.com
     phone: 0054 0379 4369786
     birth: 05-04-1980
     address: Corrientes, Argentina
@@ -40,7 +40,7 @@ skills:
 
     -   area: Technology
         skills:
-            - Git, Mercurial, Bazaar
+            - Git, Bazaar
             - Typography - Latex and beamer
             - Plotting language - gnuplot, gle and matplotlib.
 
@@ -68,7 +68,6 @@ work:
         role: Associate Professor - Classical Mechanics
         date: 2016
         website: http://www.unne.edu.ar/
-        summary: In Replacing of the Professor (full Professor) Dr. Gustavo A. Aucar, (4 month)
 
     -   company: Universidad Nacional del Nordeste
         role: Teacher in charge of assignments

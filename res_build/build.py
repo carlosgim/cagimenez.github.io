@@ -131,7 +131,7 @@ if __name__ == '__main__':
 
 
 """
- Move the build content to the main folder - carlosgim:w
+ Move the build content to the main folder - carlosgim
 """
 from distutils.dir_util import copy_tree
 
