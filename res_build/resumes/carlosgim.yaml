@@ -5,7 +5,7 @@ profile:
     name: Carlos A. Giménez
     label: PhD in Physics
     email: mail[at]carlosagimenez.com
-    phone: 0054 0379 4369786
+    phone: 0054 0379 447-3931 int 125
     birth: 05-04-1980
     address: Corrientes, Argentina
     summary: >
@@ -21,7 +21,7 @@ profile:
             url: https://github.com/carlosgim
 
         -   provider: linkedin
-            username: carlosarielgimenez
+            username: carlosgim
             url: https://www.linkedin.com/in/carlosarielgimenez
 
 skills:
@@ -79,18 +79,18 @@ projects:
     -   name: The origen of the quantum entanglement, the hydrogen bonds, relativistics, of QED and chirality in molecular properties
         role: PhD researcher
         website: http://www.imit-conicet.gob.ar/fam-proyectos/
-        date: 06.2013
+        date: 2013 - 2016
 
 education:
-    -   location: Universidad de Buenos Aires, Buenos Aires, Argentina
+    -   location: Universidad de Buenos Aires
         date: 2016 - 2018
         summary: Post PhD in Computer Science
 
-    -   location: Universidad Nacional del Nordeste, Corrientes, Argentina
-        date: 20011 - 2015
+    -   location: Universidad Nacional del Nordeste
+        date: 2011 - 2015
         summary: PhD in Physics
 
-    -   location: Universidad Nacional del Nordeste, Corrientes, Argentina
+    -   location: Universidad Nacional del Nordeste
         date: 2008 - 2011
         summary: Licenciate in Physics
 
