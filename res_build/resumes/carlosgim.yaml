@@ -3,14 +3,15 @@
 
 profile:
     name: Carlos A. Giménez
-    label: PhD in Physics
+    label: Data Scientist Specialist
     email: mail[at]carlosagimenez.com
-    phone: 0054 011 2556 2272
+    phone: +54 011 2556 2272
     birth: 05-04-1980
     address: Buenos Aires, Argentina
     summary: >
         Computational Physics Developer focused on performant Data Science. Skilled Python programmer.
-        More than 6 years of professional code development.
+        More than 7 years of professional scientific code development. Developer of Python Data Scientist
+        Libraries.
 
     image: "https://avatars2.githubusercontent.com/u/6471873?v=3&u=b027499c66ae2ce9afd2f88dbf52263f31034929&s=140"
     website: http://www.carlosagimenez.com
@@ -36,7 +37,8 @@ skills:
             - Python, +6 years,
             - Fortran, +6 years,
             - Bash, +5 years,
-            - R, novice, +1 years
+            - R, +1 years
+            - SQL(Teradata), < year
 
     -   area: Technology
         skills:
@@ -55,12 +57,25 @@ skills:
             - English, Fluent
 
 work:
+
+    -   company: Telefonica Argentina
+        role: Data Scientist
+        website: http://www.telefonica.com.ar/
+        date: 2016 - current
+        summary: Development of Python Libraries for analytics data study, data process
+            with Machine Learning Technics (R and Pyton language), courses dictation, and writer of
+            technical reports.
+        highlights:
+            - Python code developer.
+            - Teacher of Mathematical background of Machine Learning Technics.
+            - Technical Report Writer.
+
     -   company: Institute of Modeling and Innovation on Technology
         role: Post PhD
         website: http://www.imit-conicet.gob.ar/
         date: 2016 - 2018
         summary: Development of theoretical and computational tools for the study of magnetic
-                 effects in nanoscopic systems with heavy atoms
+                 effects in nanoscopic systems with heavy atoms.
         highlights:
             - Scientific research, Code developer.
 
@@ -96,8 +111,8 @@ education:
 
 interests:
     - Data Science
-    - Computer Science
-    - Atomic and Molecular Physics
+    - Scientific Computer Development
+    - Python Libraries Development
     - Chess
 
 config:
